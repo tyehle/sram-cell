@@ -950,6 +950,7 @@ F 0 "SW1" H 2550 1885 50  0000 C CNN
 F 1 "SW_Write" H 2550 1794 50  0000 C CNN
 F 2 "Button_Switch_THT:SW_PUSH_6mm" H 2550 1800 50  0001 C CNN
 F 3 "~" H 2550 1800 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/FSM4JAH" H 2550 1600 50  0001 C CNN "Link"
 	1    2550 1600
 	1    0    0    -1  
 $EndComp
