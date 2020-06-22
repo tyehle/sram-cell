@@ -1,7 +1,7 @@
 # S-RAM Cell
 
-![top of board](render/top-opt.svg)
-![bottom of board](render/bottom-opt.svg)
+![top of board](render/color/top-opt.svg)
+![bottom of board](render/color/bottom-opt.svg)
 
 This board contains a single S-RAM cell implemented with two CMOS inverters feeding into eachother.
 
